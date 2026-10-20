@@ -8,7 +8,7 @@ Customer Segmentation: Divides users into revenue tiers (Gold, Silver, Bronze) u
 Cohort Analysis: Groups retention and revenue metrics by signup month.
 Automated Export: Generates and saves a cohort_summary.csv report.
 
-📂 Project Structurechurn_ltv_profiler/
+📂 Project Structurechurn_ltv_profiler/ 
 ├── data/
 │   ├── raw_customers.csv       # Input dataset
 │   └── cohort_summary.csv      # Exported report
